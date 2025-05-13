@@ -1,0 +1,42 @@
+Answer-1:
+A Version Control System (VCS) is a tool that tracks and manages changes to a project’s 
+codebase, allowing multiple developers to collaborate without conflicts. It maintains a full 
+history of changes and enables easy rollback to previous versions when needed.
+
+Answer-2:
+Centralized Version Control System (CVCS) 
+• Uses a central server to store all versions of code. 
+• Developers pull and push code from/to this single server. 
+• If the server goes down, you lose access to everything. 
+Distributed Version Control System (DVCS) 
+• Every developer has a full copy of the entire code history. 
+• You can work offline and sync with others later. 
+• Safer, faster, and ideal for modern software teams. 
+
+Ans-3:
+Git is a free and open source distributed version control system.
+which helps developers track changes in their code over time.
+GitHub is a platform for hosting and managing code.
+
+Ans-4:
+the staging area (also called the index) is a place where you can group changes you want to include in your next commit.
+
+Ans-5:
+.git folder: It contains all metadata and version history for a Git repository, including config, branches, commits, and staging information.
+
+Ans-6:
+Git branching & commands: Git branching allows you to work on separate versions of a project.
+Create a branch: git branch branch-name
+Switch branch: git checkout branch-name (or) git switch branch-name
+
+Ans-7:
+git reset vs git reset --hard:
+git reset moves the HEAD and optionally updates the index.
+git reset --hard also resets working directory files, erasing changes.
+
+Ans-8:
+Squash merge: Combines all commits from a branch into a single commit during merging, used for keeping history clean.
+
+Ans-9:
+git rebase: Reapplies commits from one branch onto another, creating a linear history.
+Example: git rebase main on a feature branch applies its commits on top of main.
