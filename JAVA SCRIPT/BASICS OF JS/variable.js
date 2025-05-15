@@ -1,1 +1,1 @@
-console.log("Faizul")
+console.log("Faizul");
