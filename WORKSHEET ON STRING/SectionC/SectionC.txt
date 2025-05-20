@@ -1,0 +1,12 @@
+1. Template literals are enclosed by _______ instead of quotes. 
+2. str.split("") will return an array of _______. 
+3. str.toLowerCase() is used to convert a string to _______. 
+4. str.replaceAll("a", "z") replaces _______ occurrences of "a". 
+5. str.startsWith("web") returns a _______ value. 
+
+
+Answer-1-Backtick(` `)
+Answer-2-characters
+Answer-3-lowercase
+Answer-4-all
+Answer-5-boolean
