@@ -9,7 +9,7 @@ function checkNumber(num1) {
     }
 }
 
-//calls:
+
 checkNumber(5);   // Output: It is Positive
 checkNumber(-3);  // Output: It is Negative
 checkNumber(0);   // Output: It is Positive

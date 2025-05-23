@@ -1,0 +1,10 @@
+why do we need function
+how to create function 
+argument and parameter 
+return
+arrow function with different cases
+different problems
+function expression 
+annonymous function
+HOF- higher order function
+IIFE-immediately Invoked Function Expression
