@@ -11,7 +11,7 @@
 // console.log(d)
 
 //Split Method
-const a="Faizul"
+const a="Faizul Haque"
 console.log(a.split())      
 console.log(a.split(" "))
 console.log(a.split(""))
