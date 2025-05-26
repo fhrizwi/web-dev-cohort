@@ -1,1 +1,1 @@
-const arr = [44, 55, "Faizul Haque"] 
+console.log(b)
