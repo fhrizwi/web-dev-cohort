@@ -1,0 +1,15 @@
+1.Create an object book with properties title, author, and pages. Create a function getBookDetails.
+
+2.Create a function changeOccupation that takes an object person and a string newOccupation as parameters, and changes the occupation property of the person object to the newOccupation.
+
+3.Create an object person with two properties, "name" and "age", and then update the "age" property to a new value. Initial age should be 30.
+
+4.Write a function that takes an object car and returns true if the car is a sports car (i.e., it has a horsepower property greater than or equal to 300).
+
+5.Create an object with properties title, views, isPublished, and publishDate.
+
+6.Create a function that takes an object YouTube video and returns true if the video has more than 1000 views.
+
+7.Write a function that takes in an object representing a person’s information (name, age, occupation) and returns a template literal that includes the person’s name and age in a sentence.
+
+8.Create a function that takes a product object as an argument and returns a string that includes the product name, price, and a message based on whether it is in stock or not.
